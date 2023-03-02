@@ -1,0 +1,13 @@
+{
+    "title": { "en": "English Course" },
+    "coverUrl": "/cover-english.png",
+    "description": {
+      "en": "Using for testing English content."
+    },
+    "sections": {
+      "Section_1": {
+        "title": { "en": "Test Section" },
+        "lessons": [{ "title": { "en": "Test Lesson" }, "file": "Lesson_1.md" }]
+      }
+    }
+  }
